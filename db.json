@@ -32,7 +32,7 @@
       "password": "$2a$10$hzW7h4/0eDQEopcNDGPqgO80B10QUznWOYyzMZBtQN1p1qWzp1b.S",
       "name": "Jack",
       "contactNumber": "0912345678",
-      "id": 4,
+      "id": 4, 
       "role": "admin",
       "photo": "https://github.com/Key0329/HighRock-JS-sideproject-2022/blob/main/app/assets/images/Icon/climber.png?raw=true"
     },
